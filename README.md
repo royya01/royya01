@@ -65,6 +65,3 @@
 </div>
 
 ###
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=royya01&show_icons=true&locale=en&layout=compact" alt="royya01" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=royya01&show_icons=true&locale=en" alt="royya01" /></p>
