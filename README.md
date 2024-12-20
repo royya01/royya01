@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Royay from Turkey. <br><br>- 🔭 I generally just research...<br>- 📚 I'm currently learning nand2tetris<br>- ⚡ In my free time I manage my socials.</p>
 
 ###
 
